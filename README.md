@@ -1,13 +1,5 @@
 <h2 align="center">Olá 👋! Sou Eduardo...<br>E estou atualmente desenvolvendo minhas habilidade em projetos com <strong>Angular</strong> e <strong>Typescript</strong>.</h2>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/educrds/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=educrds" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=educrds&amp;theme=dark&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="150" alt="">
